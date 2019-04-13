@@ -1,9 +1,6 @@
 #! /bin/bash
 
-#### RANCHER NODE INSTALL ####
-
-
-#### BUT 1ST, Docker download...! ####
+#### Docker download...! ####
 sudo apt update
 sudo apt upgrade
 sudo apt install -y docker.io
